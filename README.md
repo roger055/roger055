@@ -16,7 +16,6 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **Zoho CRM MCP Server** | Python MCP server with OAuth, read-only tools, and 17 automated tests using `respx` | `Python` `MCP` `OAuth` |
-| **RAG Workflow (n8n + Pinecone)** | Retrieval-augmented generation pipeline using OpenAI embeddings and a Pinecone dense index | `n8n` `Pinecone` `OpenAI` |
-| **CRM Lead Automation** | Automated pipeline importing leads from Google Sheets into Zoho CRM as Deals, using an AI agent to generate deal names | `n8n` `Groq` `Zoho CRM` |
-| **WhatsApp Support Bot** | Ticketing chatbot with multi-step flow and per-number conversation memory | `Node.js` `whatsapp-web.js` `n8n` |
+| **User Management System** | Full-stack application for user registration, login, and management `Java` | `Html/css` `JavaScript` |
+| **Academic Dashboard** | Panel for academic data analysis with automated reports | `Javascript` `Html/css` `SQL` |
+| **Waze Simulation** | Developed a Waze-like navigation simulation using AI for real-time traffic prediction and dynamic route optimization | `Html/css` `react` `SQL` `Open-IA`|
