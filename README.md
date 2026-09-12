@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <title>Apresentação - Roger Albuquerque</title>
+
 </head>
 <body>
   <div style="text-align: center; max-width: 900px; margin: auto;">
