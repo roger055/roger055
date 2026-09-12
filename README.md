@@ -6,7 +6,7 @@
 </head>
 <body>
   <div style="text-align: center; max-width: 900px; margin: auto;">
-    <h1>👋 Eu sou o Roger Albuquerque</h1>
+   <center> <h1>👋 Eu sou o Roger Albuquerque</h1>
     <h2>Desenvolvedor Backend em formação</h2>
     <p>
       Estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em desenvolvimento backend,
@@ -22,7 +22,7 @@
       Tenho conhecimento em <strong>HTML</strong>, <strong>CSS</strong>, <strong>Java</strong>, <strong>JavaScript</strong>, <strong>SQL/MySQL</strong> e <strong>Banco de Dados</strong>.
       Busco oportunidades de estágio ou nível júnior em desenvolvimento backend para aplicar meus conhecimentos e evoluir profissionalmente.
     </p>
-
+</center>
   <h2>🧰 Tecnologias e Ferramentas</h2>
     <ul style="list-style: none; padding: 0;">
       <li>HTML / CSS</li>
