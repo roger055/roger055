@@ -23,6 +23,6 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **User Management System** | Full-stack application for user registration, login, and management `Java` | `Html/css` `JavaScript` |
+| **User Management System** | Full-stack application for user registration, login, and management  | `Html/css` `JavaScript` `SQL` |
 | **Academic Dashboard** | Panel for academic data analysis with automated reports | `Javascript` `Html/css` `SQL` |
 | **Waze Simulation** | Developed a Waze-like navigation simulation using AI for real-time traffic prediction and dynamic route optimization | `Html/css` `react` `SQL` `Open-IA`|
