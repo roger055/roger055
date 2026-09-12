@@ -6,3 +6,4 @@
   Student of Systems Analysis and Development (ADS), focused on backend development,
       system creation, automation, and technology integration.
   
+###  About Me
