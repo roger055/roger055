@@ -26,3 +26,14 @@
 | **User Management System** | Full-stack application for user registration, login, and management  | `Html/css` `JavaScript` `SQL` |
 | **Academic Dashboard** | Panel for academic data analysis with automated reports | `Javascript` `Html/css` `SQL` |
 | **Waze Simulation** | Developed a Waze-like navigation simulation using AI for real-time traffic prediction and dynamic route optimization | `Html/css` `react` `SQL` `Open-IA`|
+
+📫 Let's Connect
+
+<p align="left">
+  <a href="mailto:roogeralbuquerque@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/roger-albuquerque-98aaa52bb">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
