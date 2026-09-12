@@ -1,18 +1,17 @@
 
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <title>Apresentação - Roger Albuquerque</title>
+
 </head>
 <body>
-  <h1>👋 Olá, eu sou Roger Albuquerque</h1>
+  <h1> Eu sou o Roger Albuquerque. </h1>
   <h2>Desenvolvedor Backend em formação</h2>
   <p>
     Estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em desenvolvimento backend,
     criação de sistemas, automação e integração de tecnologias.
   </p>
 
-  <h2>📌 Sobre mim</h2>
+  <h2>📌 Apresentação </h2>
   <p>
     Sou um desenvolvedor em formação com experiências em <strong>freelances full-stack</strong>, atuando desde a modelagem de <strong>banco de dados</strong> até a construção de <strong>interfaces web</strong>.
     Também participei de diversos <strong>projetos acadêmicos</strong>, aplicando boas práticas de programação e explorando diferentes tecnologias.
