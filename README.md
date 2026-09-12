@@ -13,3 +13,10 @@
       I have knowledge in <strong>HTML</strong>, <strong>CSS</strong>, <strong>Java</strong>, <strong>JavaScript</strong>, <strong>SQL/MySQL</strong>, and <strong>Databases</strong>.
       I am looking for internship or junior-level opportunities in backend development to apply my knowledge and grow professionally.
     </p>
+
+| Project | Description | Stack |
+|---|---|---|
+| **Zoho CRM MCP Server** | Python MCP server with OAuth, read-only tools, and 17 automated tests using `respx` | `Python` `MCP` `OAuth` |
+| **RAG Workflow (n8n + Pinecone)** | Retrieval-augmented generation pipeline using OpenAI embeddings and a Pinecone dense index | `n8n` `Pinecone` `OpenAI` |
+| **CRM Lead Automation** | Automated pipeline importing leads from Google Sheets into Zoho CRM as Deals, using an AI agent to generate deal names | `n8n` `Groq` `Zoho CRM` |
+| **WhatsApp Support Bot** | Ticketing chatbot with multi-step flow and per-number conversation memory | `Node.js` `whatsapp-web.js` `n8n` |
