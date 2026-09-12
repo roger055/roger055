@@ -7,3 +7,5 @@
       system creation, automation, and technology integration.
   
 📌  About Me
+<p> I am a developer in training with experience in <strong>full-stack freelancing</strong>, working from <strong>database modeling</strong> to building <strong>web interfaces</strong>.
+      I have also participated in several <strong>academic projects</strong>, applying programming best practices and exploring different technologies. </p>
