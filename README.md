@@ -13,7 +13,7 @@
       criação de sistemas, automação e integração de tecnologias.
     </p>
 
-    <h2>📌 Apresentação</h2>
+  <h2>📌 Apresentação</h2>
     <p>
       Sou um desenvolvedor em formação com experiências em <strong>freelances full-stack</strong>, atuando desde a modelagem de <strong>banco de dados</strong> até a construção de <strong>interfaces web</strong>.
       Também participei de diversos <strong>projetos acadêmicos</strong>, aplicando boas práticas de programação e explorando diferentes tecnologias.
@@ -23,7 +23,7 @@
       Busco oportunidades de estágio ou nível júnior em desenvolvimento backend para aplicar meus conhecimentos e evoluir profissionalmente.
     </p>
 
-    <h2>🧰 Tecnologias e Ferramentas</h2>
+  <h2>🧰 Tecnologias e Ferramentas</h2>
     <ul style="list-style: none; padding: 0;">
       <li>HTML / CSS</li>
       <li>Java</li>
@@ -33,7 +33,7 @@
       <li>Git / GitHub</li>
     </ul>
 
-    <h2>🚀 Projetos em destaque</h2>
+  <h2>🚀 Projetos em destaque</h2>
     <table border="1" cellspacing="0" cellpadding="8" style="margin: auto;">
       <thead>
         <tr>
